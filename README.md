@@ -2,10 +2,10 @@
 
 ## Setup
 ```bash
-git clone https://github.com/BolajiAyodeji/weight-converter.git
+git clone https://github.com/98arun/QrCode-Scan-ReactJS-App-.git
 ```
 ```bash
-cd weight-converter
+cd QrCode-Scan-ReactJS-App
 ```
 ## Running Instruction
 Go to terminal and use following command
