@@ -16,3 +16,6 @@ npm start
 ```
 
 then visit https://localhost:3000
+
+## [Click here to see the demo](https://98arun.github.io/QrCode-Scan-ReactJS-App-/)
+
