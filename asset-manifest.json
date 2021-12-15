@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/QrCode-Scan-ReactJS-App-/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/QrCode-Scan-ReactJS-App-/static/js/main.24709343.chunk.js",
+    "main.js.map": "/QrCode-Scan-ReactJS-App-/static/js/main.24709343.chunk.js.map",
+    "runtime-main.js": "/QrCode-Scan-ReactJS-App-/static/js/runtime-main.d7cd5095.js",
+    "runtime-main.js.map": "/QrCode-Scan-ReactJS-App-/static/js/runtime-main.d7cd5095.js.map",
+    "static/js/2.79b80b68.chunk.js": "/QrCode-Scan-ReactJS-App-/static/js/2.79b80b68.chunk.js",
+    "static/js/2.79b80b68.chunk.js.map": "/QrCode-Scan-ReactJS-App-/static/js/2.79b80b68.chunk.js.map",
+    "static/js/3.06d76ab2.chunk.js": "/QrCode-Scan-ReactJS-App-/static/js/3.06d76ab2.chunk.js",
+    "static/js/3.06d76ab2.chunk.js.map": "/QrCode-Scan-ReactJS-App-/static/js/3.06d76ab2.chunk.js.map",
+    "index.html": "/QrCode-Scan-ReactJS-App-/index.html",
+    "service-worker.js": "/QrCode-Scan-ReactJS-App-/service-worker.js",
+    "service-worker.js.map": "/QrCode-Scan-ReactJS-App-/service-worker.js.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/QrCode-Scan-ReactJS-App-/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.79b80b68.chunk.js.LICENSE.txt": "/QrCode-Scan-ReactJS-App-/static/js/2.79b80b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7cd5095.js",
+    "static/js/2.79b80b68.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.24709343.chunk.js"
+  ]
+}
